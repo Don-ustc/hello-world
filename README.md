@@ -1,2 +1,2 @@
 # hello-world
-green bird
+green hand
