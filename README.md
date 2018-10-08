@@ -1,2 +1,3 @@
 # hello-world
-green bird
+rookie
+I am a green hand Don
